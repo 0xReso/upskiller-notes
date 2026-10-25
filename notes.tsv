@@ -1,2 +1,3 @@
+2026-10-21	note-03-llm-apis-and-tool-calling.html	LLM APIs and tool calling, from scratch	Calling LLMs through OpenAI-compatible APIs: messages, streaming, structured outputs, the tool-calling loop, and making it robust.	AI Engineering in Python
 2026-10-21	note-02-python-for-ai-engineers.html	Python for AI engineers: the bits that matter	Modern Python for AI work: type hints, pydantic v2, asyncio concurrency, retries, project tooling and tests, mapped from Java habits.	AI Engineering in Python
 2026-10-21	note-01-java-to-ml-engineering.html	Your Java years aren't wasted: mapping them onto ML engineering	Mapping Java, LLD and backend skills onto ML engineering, with side-by-side Java/Python code and diagrams.	Foundations
