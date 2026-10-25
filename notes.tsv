@@ -1,3 +1,4 @@
+2026-10-21	note-06-ml-ai-engineer-interview-playbook.html	The ML/AI engineer interview playbook	Every round type and how to prep for it, an ML system design framework with two worked examples, STAR stories, India-specific tips and a 6-week plan.	Interviews
 2026-10-21	note-05-evals-for-llm-apps.html	Evals for LLM apps: how you know it works	Measuring LLM apps: golden sets, recall@k/MRR, LLM-as-judge pitfalls, CI regression gates and tracing.	AI Engineering in Python
 2026-10-21	note-04-rag-end-to-end.html	RAG end to end: chunk, embed, retrieve, rerank, cite	RAG from ingestion to answer: chunking, embeddings, hybrid BM25 + vector search with RRF, reranking, grounded prompts and citation checks.	AI Engineering in Python
 2026-10-21	note-03-llm-apis-and-tool-calling.html	LLM APIs and tool calling, from scratch	Calling LLMs through OpenAI-compatible APIs: messages, streaming, structured outputs, the tool-calling loop, and making it robust.	AI Engineering in Python
