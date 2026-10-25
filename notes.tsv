@@ -1,3 +1,4 @@
+2026-10-21	note-05-evals-for-llm-apps.html	Evals for LLM apps: how you know it works	Measuring LLM apps: golden sets, recall@k/MRR, LLM-as-judge pitfalls, CI regression gates and tracing.	AI Engineering in Python
 2026-10-21	note-04-rag-end-to-end.html	RAG end to end: chunk, embed, retrieve, rerank, cite	RAG from ingestion to answer: chunking, embeddings, hybrid BM25 + vector search with RRF, reranking, grounded prompts and citation checks.	AI Engineering in Python
 2026-10-21	note-03-llm-apis-and-tool-calling.html	LLM APIs and tool calling, from scratch	Calling LLMs through OpenAI-compatible APIs: messages, streaming, structured outputs, the tool-calling loop, and making it robust.	AI Engineering in Python
 2026-10-21	note-02-python-for-ai-engineers.html	Python for AI engineers: the bits that matter	Modern Python for AI work: type hints, pydantic v2, asyncio concurrency, retries, project tooling and tests, mapped from Java habits.	AI Engineering in Python
